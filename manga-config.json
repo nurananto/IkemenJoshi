@@ -1,0 +1,28 @@
+{
+  "type": "manga",
+  "title": "Ikemen Joshi Demo Kawaii Heroine ni Naremasu ka?",
+  "alternativeTitle": "イケメン女子でもかわいいヒロインになれますか？",
+  "cover": "",
+  "description": "'Bisakah kamu membuat diriku menjadi seorang princess (Heroine)?'' Sumeragi Tsukasa — siswi SMA yang dijuluki ikemen, seorang artis populer, dan selalu dikerubungi cewek-cewek. Sedangkan Mikage Himeno — cowok SMA yang sudah debut jadi mangaka tapi proposal serialisasinya selalu ditolak. Saat tujuan mereka saling bertemu, Mereka langsung sembunyi-sembunyi latihan untuk menjadi seorang heroine dan nggak boleh ketahuan sama siapa pun! dan itu yang bikin situasi diantara mereka menjadi mendebarkan!",
+  "author": "Tsumikitsuki",
+  "artist": "Tsumikitsuki",
+  "genre": [
+    "Shounen",
+    "Comedy",
+    "Romance",
+    "School Life",
+    "Slice of Life"
+  ],
+  "status": "ONGOING",
+  "endChapter": null,
+  "links": {
+    "mangadex": "https://mangadex.org/title/755733bb-5842-4ff5-af0f-b4c1605bfe85/ikemen-joshi-demo-kawaii-heroine-ni-naremasu-ka",
+    "raw": "https://kirapo.jp/meteor/titles/ikemenjoshi"
+  },
+  "repoOwner": "nurananto",
+  "repoName": "IkemenJoshi",
+  "imagePrefix": "Image",
+  "imageFormat": "webp",
+  "lockedChapters": []
+}
+
