@@ -12,9 +12,7 @@
 | Judul Alternatif | イケメン女子でもかわいいヒロインになれますか？ |
 | Author | Tsumikitsuki |
 | Tipe | Manga (Hitam Putih) |
-| Status | Ongoing |
 | Genre | Shounen · Comedy · Romance · School Life · Slice of Life |
-| Chapter | 1 chapter |
 
 ## Link
 
