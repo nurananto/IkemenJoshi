@@ -35,8 +35,18 @@
       "pages": 31,
       "locked": false,
       "views": 129
+    },
+    "2": {
+      "title": "Chapter 2",
+      "chapter": 2,
+      "folder": "2",
+      "uploadDate": "2026-03-06T10:17:06+07:00",
+      "totalPages": 21,
+      "pages": 21,
+      "locked": false,
+      "views": 0
     }
   },
-  "lastUpdated": "2026-03-05T19:00:56.753Z",
-  "lastChapterUpdate": "2026-02-05T20:32:36+07:00"
+  "lastUpdated": "2026-03-06T10:18:00+07:00",
+  "lastChapterUpdate": "2026-03-06T10:17:06+07:00"
 }
