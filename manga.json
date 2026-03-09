@@ -25,18 +25,7 @@
     "lockedChapters": [],
     "type": "manga"
   },
-  "chapters": {
-    "2": {
-      "title": "Chapter 2",
-      "chapter": 2,
-      "folder": "2",
-      "uploadDate": "2026-03-06T10:17:06+07:00",
-      "totalPages": 21,
-      "pages": 21,
-      "locked": false,
-      "views": 0
-    }
-  },
-  "lastUpdated": "2026-03-09T02:46:02+07:00",
-  "lastChapterUpdate": "2026-03-06T10:17:06+07:00"
+  "chapters": {},
+  "lastUpdated": "2026-03-09T19:58:03+07:00",
+  "lastChapterUpdate": "2026-03-09T19:58:03+07:00"
 }
